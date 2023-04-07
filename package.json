@@ -1,0 +1,19 @@
+{
+
+    "name": "cn.capstones.mods",
+
+    "displayName": "Capstone Mods-Framework Editor",
+
+    "version": "1.0.0",
+
+    "unity": "2018.3",
+
+    "description": "Capstone Mods-Framework Editor",
+
+    "keywords": [
+        "unity"
+    ],
+
+    "category": "Unity"
+
+}
